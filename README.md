@@ -25,7 +25,7 @@
 🚧 Projetos em construção
 📌 Foco em backend e dados
 ✅ Commits constantes
-
+----
 <!-- ======= BADGES ======= -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -48,5 +48,4 @@
 
 📌 Sempre aberto a aprender, receber feedback e evoluir rápido.
 
-|[Tarsio Sadok GitHub stats](https://github-readme-stats.vercel.app/api?username=TarsioSadok&show_icons=true&theme=radical)
-
+----
